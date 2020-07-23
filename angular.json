@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyecto7"
+    }
+  },
+  "defaultProject": "proyecto7",
+  "cli": {
+    "analytics": false
+  }
 }
